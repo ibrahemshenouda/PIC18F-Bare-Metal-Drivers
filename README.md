@@ -6,7 +6,7 @@ This repository contains driver implementations for the **Microchip PIC18F46K20*
 
 ## ✨ Features
 
-- Modular drivers for PIC18F46K20 peripherals (GPIO, ADC, Timers, etc.)  
+- Modular drivers for PIC18F46K20 peripherals (GPIO, Interrupt, Timers, etc.)  
 - Clear separation between **HAL** and **MCAL** layers  
 - Easy integration into new or existing embedded projects  
 - Well-organized folder structure for scalability  
