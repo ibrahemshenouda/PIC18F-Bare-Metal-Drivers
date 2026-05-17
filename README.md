@@ -1,7 +1,28 @@
 # PIC18F46K20 Drivers (HAL & MCAL)
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Microchip](https://img.shields.io/badge/Microchip-E42024?style=for-the-badge&logo=microchip&logoColor=white)
+![ATmega32 AVR](https://img.shields.io/badge/ATmega32%20AVR-00B2EE?style=for-the-badge&logo=microchip&logoColor=white)
+
+## AVR Demos
+
+### Temprature Sensor
+https://github.com/user-attachments/assets/83b1cca2-19b5-4d6b-8c20-c1c62f2d3c71
+
+### Basic Calculator
+https://github.com/user-attachments/assets/7548e2f1-905d-4e85-b734-fb807bc9d035
+
+
+### DC-Motor 2 Directions
+https://github.com/user-attachments/assets/a145ce62-a717-46bf-88de-5899d59b26f1
+
+
+### Character LCD
+https://github.com/user-attachments/assets/09fc3f1f-ddda-471e-bf0f-c0c1f1ff1d11
+
+
+
+
+
 
 This repository contains bare-metal embedded C drivers for the **Microchip PIC18F46K20** microcontroller. The project implements a clean, standard layered software architecture, strictly separating the **Hardware Abstraction Layer (HAL / ECU Layer)** from the **Microcontroller Abstraction Layer (MCAL)**. 
 
